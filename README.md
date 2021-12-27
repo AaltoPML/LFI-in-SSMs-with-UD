@@ -44,5 +44,12 @@ Citation
 --------
 
 ```
+@article{aushev2021likelihood,
+  title={Likelihood-Free Inference in State-Space Models with Unknown Dynamics},
+  author={Aushev, Alexander and Tran, Thong and Pesonen, Henri and Howes, Andrew and Kaski, Samuel},
+  journal={arXiv preprint arXiv:2111.01555},
+  year={2021}
+}
 
 ```
+the arxiv version of the paper: https://arxiv.org/abs/2111.01555
