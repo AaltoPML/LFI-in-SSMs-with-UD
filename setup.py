@@ -25,7 +25,7 @@ setup(
     author='ELFI authors',
     author_email='elfi-support@hiit.fi',
     url='http://elfi.readthedocs.io',
-    install_requires=requirements,
+    # install_requires=requirements,
     extras_require=optionals,
     description='ELFI - Engine for Likelihood-free Inference',
     long_description=(open('docs/description.rst').read()),
