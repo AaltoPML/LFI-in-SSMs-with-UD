@@ -96,13 +96,16 @@ The code for all methods can be found in 'elfi/methods/dynamic_parameter_inferen
 --------
 
 ```
-@article{aushev2021likelihood,
-  title={Likelihood-Free Inference in State-Space Models with Unknown Dynamics},
+@article{aushev2024likelihood,
+  title={Likelihood-free inference in state-space models with unknown dynamics},
   author={Aushev, Alexander and Tran, Thong and Pesonen, Henri and Howes, Andrew and Kaski, Samuel},
-  journal={arXiv preprint arXiv:2111.01555},
-  year={2021}
+  journal={Statistics and Computing},
+  volume={34},
+  number={1},
+  pages={27},
+  year={2024},
+  publisher={Springer}
 }
 
 ```
-the arxiv version of the paper: https://arxiv.org/abs/2111.01555
-
+Full article: https://link.springer.com/article/10.1007/s11222-023-10339-8
